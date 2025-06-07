@@ -1,4 +1,5 @@
-# DISCLAIMER: This is real-world data from an automobile insurance firm, used with full permission from the data provider for educational purposes only.
+# DISCLAIMER: This is real-world data from an automobile insurance firm. I built a machine learning model for them, and full permission was granted to publish and use this dataset live for educational and portfolio purposes.
+Kilometres,Zone,Bonus,Make,Insured,Claims,Payment
 
 Kilometres,Zone,Bonus,Make,Insured,Claims,Payment
 1,1,1,1,455.13,108,392491
