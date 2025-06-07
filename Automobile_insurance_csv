@@ -1,3 +1,5 @@
+# DISCLAIMER: This is real-world data from an automobile insurance firm, used with full permission from the data provider for educational purposes only.
+
 Kilometres,Zone,Bonus,Make,Insured,Claims,Payment
 1,1,1,1,455.13,108,392491
 1,1,1,2,69.17,19,46221
